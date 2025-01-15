@@ -72,4 +72,4 @@ Improve the visual hierarchy with better typography and layout design.
 Acknowledgments
 
 This project reflects the beginning of my journey and passion as a software engineer. Thank you for taking the time to explore my story.
-https://lydianoh-tech.github.io/ABOUT-ME-my-first-repo/
+https://lydianoh-tech.github.io/ABOUT-ME-my-first-repo/index.html
